@@ -9,3 +9,4 @@ All the 3D- Visualization in QGIS will be uploaded here.
 8. Kathmandu Urban data visualized  with building footprints, road networks, and riverlines.
 9. Visualized the airflow directions within europe using WebGL + D3.js, python and HTML
 10. The glaciers in the mountain around  2125 A.D comapared to 2025 A.D-  completely in QGIS!
+11. Breweries and pubs within walkable distance in Bamberg
