@@ -11,3 +11,4 @@ All the Visualization in QGIS will be uploaded here.
 10. The glaciers in the mountain around  2125 A.D comapared to 2025 A.D-  completely in QGIS!
 11. Breweries and pubs within walkable distance in Bamberg
 12. cellular makeup of the Maltese built-up environment
+13. Kathmandu Metroppol minimal map
